@@ -1,0 +1,41 @@
+_repo: The-Conquest-of-Fear_9944
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Link, Henry C. (Henry Charles)
+    alias: Link, Henry Charles
+    birthdate: 1889
+    deathdate: 1952
+    gutenberg_agent_id: '40767'
+    url: http://www.gutenberg.org/2009/agents/40767
+creator:
+  author:
+    agent_name: King, Basil
+    alias: King, William Benjamin Basil
+    birthdate: 1859
+    deathdate: 1928
+    gutenberg_agent_id: '3214'
+    url: http://www.gutenberg.org/2009/agents/3214
+description: Published in 1921, this memoir details the author's struggles with illness
+  and his attendant spiritual growth. King discusses his salvation from depression
+  through a renewed relationship God--and implores others to open themselves up to
+  a deeper religious connection as well.
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9944'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fear'
+- !lcc 'BR'
+- GITenberg
+tableOfContents: Introduction -- Fear and the life-principle -- The life-principle
+  and God -- God and His self-expression -- God's self-expression and the mind of
+  to-day -- The mind of to-day and the world as it is -- The world as it is and the
+  false god of fear -- The false god of fear and the fear of death -- The fear of
+  death and abundance of life.
+title: The Conquest of Fear
+url: http://www.gutenberg.org/ebooks/9944
